@@ -1,0 +1,2 @@
+"""Publication-quality figure generation."""
+

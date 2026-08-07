@@ -1,0 +1,5 @@
+target: recovery_within_3_months
+validation: leave_one_event_out
+metrics: [roc_auc, pr_auc, f1, calibration]
+models: [logistic_regression, random_forest, xgboost]
+

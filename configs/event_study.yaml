@@ -1,0 +1,15 @@
+event_window:
+  pre_months: 12
+  post_months: 12
+  reference_month: -1
+
+recovery:
+  threshold: 0.90
+  consecutive_months: 2
+  robustness_thresholds: [0.80, 0.90, 0.95]
+
+alternative_ports:
+  maximum_ports: 5
+  pre_event_start: -12
+  pre_event_end: -2
+

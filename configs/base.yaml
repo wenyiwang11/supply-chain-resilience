@@ -1,0 +1,12 @@
+project:
+  random_seed: 20260807
+  start_month: "2015-01"
+  end_month: "2025-12"
+  commodity_level: "hs4"
+
+paths:
+  raw: "data/raw"
+  interim: "data/interim"
+  processed: "data/processed"
+  outputs: "outputs"
+

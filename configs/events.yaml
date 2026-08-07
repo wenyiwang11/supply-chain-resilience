@@ -1,0 +1,9 @@
+qualifying_event_types:
+  - hurricane
+  - tropical_storm
+  - storm_surge_tide
+  - coastal_flood
+
+# Add candidate events only after applying the documented selection criteria.
+events: []
+
