@@ -11,6 +11,7 @@ data/raw/**
 data/interim/**
 data/processed/**
 data/external/**
+data/geofences/**
 !data/**/.gitkeep
 !data/README.md
 
@@ -20,4 +21,6 @@ outputs/models/**
 outputs/logs/**
 outputs/diagnostics/**
 !outputs/**/.gitkeep
+
+docs/
 
