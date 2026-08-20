@@ -7,20 +7,9 @@ __pycache__/
 .ruff_cache/
 .ipynb_checkpoints/
 
-data/raw/**
-data/interim/**
-data/processed/**
-data/external/**
-data/geofences/**
+data/*
 !data/**/.gitkeep
 !data/README.md
 
-outputs/figures/**
-outputs/tables/**
-outputs/models/**
-outputs/logs/**
-outputs/diagnostics/**
 !outputs/**/.gitkeep
-
-docs/
 
